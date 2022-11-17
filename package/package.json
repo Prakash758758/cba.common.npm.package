@@ -1,0 +1,22 @@
+{
+  "name": "cba-common-npm-packages",
+  "version": "1.0.0",
+  "description": "get common npm packages here",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prakash758758/cba.common.npm.package.git"
+  },
+  "keywords": [
+    "cba"
+  ],
+  "author": "BB Developer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prakash758758/cba.common.npm.package/issues"
+  },
+  "homepage": "https://github.com/Prakash758758/cba.common.npm.package#readme"
+}
