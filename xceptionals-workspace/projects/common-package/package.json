@@ -1,5 +1,5 @@
 {
-  "name": "cba-common-package",
+  "name": "xceptionals-demo-package",
   "version": "0.0.1",
   "peerDependencies": {
     "@angular/common": "^13.1.0",
